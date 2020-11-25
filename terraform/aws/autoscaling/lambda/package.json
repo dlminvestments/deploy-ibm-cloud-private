@@ -9,7 +9,7 @@
   ],
   "main": "index.js",
   "dependencies": {
-    "kubernetes-client": "4.0.0",
+    "kubernetes-client": "9.0.0",
     "js-yaml": "*"
   },
   "devDependencies": {
