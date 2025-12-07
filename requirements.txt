@@ -1,6 +1,6 @@
 
 pip==21.1
-ansible>=2.7
+ansible>=12.0.0
 asn1crypto>=0.24.0
 cryptography>=2.1.4
 enum34>=1.1.6
